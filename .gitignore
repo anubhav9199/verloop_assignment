@@ -1,0 +1,4 @@
+*/__pycache__/
+.dist
+db.sqlite3
+MasterConfig.ini
