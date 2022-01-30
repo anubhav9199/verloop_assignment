@@ -7,6 +7,12 @@ this is the an api example created using django rest framework to show the basic
 - Django Rest Framework
 
 ### How to run on local machine?
+> Add a MasterConfig.ini file in the same directiory which contains the config key for the Map API in the iven below format
+```
+[config]
+maps_key = your_key_here
+```
+
 > Go to the folder where you clone the repository.
 > Run the following commands
 >>- ```pip install -r requirements.txt```
